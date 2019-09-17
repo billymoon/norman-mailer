@@ -1,0 +1,5 @@
+{
+  "env": {
+    "NORMAN_MAILER_CONFIG": "@norman-mailer-config"
+  }
+}
